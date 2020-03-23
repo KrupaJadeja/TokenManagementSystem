@@ -9,7 +9,7 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.token</groupId>
-	<artifactId>TokenManagementSystem</artifactId>
+	<artifactId>TokenManagementSystemApi</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>TokenManagementSystem</name>
 	<description>Project for token management system</description>
